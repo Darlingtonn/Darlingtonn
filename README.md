@@ -56,4 +56,4 @@ Mi objetivo es seguir desarrollando habilidades como programador, fortaleciendo 
 
 - GitHub: https://github.com/Darlingtonn
 - Portafolio: https://Darlingtonn.github.io
-- LinkedIn: agregar enlace cuando esté disponible
+- LinkedIn: https://www.linkedin.com/in/darlingesc/
